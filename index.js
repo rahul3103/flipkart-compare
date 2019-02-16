@@ -1,5 +1,5 @@
 const api =
-  'https://gist.githubusercontent.com/prate3k/f03c7d20e235e2cd81b1bf608858da55/raw/8b6bcf994e4112d4261644eb7dca29fec532e4e1/sample-product-response.json';
+  'https://demo2837922.mockable.io/flipkart-compare';
 
 let compareSummary = [];
 let featuresList = [];
